@@ -2,7 +2,7 @@
 
 print("This file was created within RStudio")
 
-print("And now it livesf on GitHub")
+print("And now it lives on GitHub")
 
 x <- 1:10
 y <- x^2
